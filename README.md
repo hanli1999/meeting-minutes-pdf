@@ -23,10 +23,7 @@
 # 方式 1：git clone
 git clone https://github.com/hanli1999/meeting-minutes-pdf.git ~/.claude/skills/meeting-minutes-pdf
 
-# 方式 2：npx
-npx skills add hanli1999/meeting-minutes-pdf
-
-# 方式 3：手动复制
+# 方式 2：手动复制（npm 包尚未发布，暂不支持 npx skills add）
 cp -r meeting-minutes-pdf/ ~/.claude/skills/
 ```
 
